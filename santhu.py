@@ -1,8 +1,6 @@
-x = 5
-y = "john"
-print(x)
-print(y)
-print(y)
-print(y)
-print(y)
-print(y)
+fruit = ["apple","banana","cherry"]
+x,y,z = fruit
+
+print (x)
+print (y)
+print (z)
